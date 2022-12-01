@@ -6,7 +6,7 @@ Enthusiastic Full Stack developer with an experience of around 2 years specializ
 <!--Quick Overview-->
 * 🔭 I’m currently working on **React, Vue and Nodejs**
 * 🌱 I’m currently exploring open source projects of interest.
-* 💬 Ask me about _Javascript_
+* 💬 Ask me about _Typescript / Javascript_
 * 📫 How to reach me:
 <!-- SOCAIL MEDIA HANDLES -->
 <!-- SOCAIL MEDIA HANDLES -->
