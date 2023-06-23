@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 ### Hello There!! I'm Mayur 👋
-Enthusiastic Full Stack developer with an experience of around 3 years specializing in **React, Vue, Nodejs and Laravel**.
+Enthusiastic Full Stack developer with an experience of 3+ years specializing in **React, Vue, Nodejs and Laravel**.
 <br/>
 
 <!--Quick Overview-->
